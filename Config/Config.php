@@ -1,8 +1,8 @@
 <?php
-const base_url = "http://localhost/biblio/";
-const host = "localhost";
-const user = "root";
-const pass = "";
-const db = "biblioteca";
+const base_url = "http://biblioteca.local.cristianmatveg.ieslossauces.es/";
+const host = "10.199.8.248";
+const user = "userDBBiblioteca";
+const pass = "paso";
+const db = "DBBiblioteca";
 const charset = "charset=utf8";
 ?>
