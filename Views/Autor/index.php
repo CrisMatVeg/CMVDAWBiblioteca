@@ -3,6 +3,7 @@
     <div>
         <h1><i class="fa fa-dashboard"></i> Autores</h1>
     </div>
+    <a href="../doc/doxygen/html/index.html">Link Documentación</a>
 </div>
 <button class="btn btn-primary mb-2" type="button" onclick="frmAutor()"><i class="fa fa-plus fa-2x"></i></button>
 <div class="row">
