@@ -3,6 +3,7 @@
     <div>
         <h1><i class="fa fa-dashboard"></i> Panel de Administración</h1>
     </div>
+    <a href="../doc/doxygen/html/index.html"></a>
 </div>
 <div class="row">
     <div class="col-md-6 col-lg-3">

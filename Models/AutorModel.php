@@ -5,7 +5,7 @@
  * Representa un autor del sistema con sus datos y una imagen.
  * Contiene métodos para insertar un autor, editarlo, ver su estado, verificar permisos y buscarlo
  *
- * @package AutorModelo
+ * @package Models
  * @author Angel Sifuentes
  * @version 1.0
  */

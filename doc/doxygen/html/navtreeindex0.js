@@ -1,0 +1,19 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[1,0],
+"class_autor_model.html":[1,0,0],
+"class_configuracion_model.html":[1,0,1],
+"class_editorial_model.html":[1,0,2],
+"class_estudiantes_model.html":[1,0,3],
+"class_home_model.html":[1,0,4],
+"class_libros_model.html":[1,0,5],
+"class_materia_model.html":[1,0,6],
+"class_prestamos_model.html":[1,0,7],
+"class_usuarios_model.html":[1,0,8],
+"classes.html":[1,1],
+"hierarchy.html":[1,2],
+"index.html":[],
+"namespace_models.html":[0,0,0],
+"namespaces.html":[0,0],
+"pages.html":[]
+};
